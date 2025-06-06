@@ -8,8 +8,14 @@ Homepage or Divident Calculator Pages
 
 
 
-   About pages
+
+
+
+About pages layout
 <img width="173" alt="about" src="https://github.com/user-attachments/assets/9bee69ed-46e4-4da8-a586-689941931dd6" />
+
+
+
 
 
 
